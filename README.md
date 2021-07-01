@@ -11,7 +11,7 @@ Amo lecionar e trabalhar em grupo. Amo músca e meu principal hobby é tocar gui
 Atualmente, sigo continuando com o meu projeto iniciado no Mestrado que rendeu frutos [@DOI](http://dx.doi.org/10.1145/3229345.3229388) e continuará rendendo com muito foco e trabalho :raised_hands:. 
 
 ## :scroll: Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDouglas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDouglas&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :mailbox: Minhas redes
 Linkedin: https://www.linkedin.com/in/renê-morais-827219122/
