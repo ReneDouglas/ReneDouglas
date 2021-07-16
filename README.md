@@ -8,7 +8,7 @@ Sempre fui apaixonado por áreas relacionadas à Inteligência Artificial: Machi
 Amo lecionar e trabalhar em grupo. Amo músca e meu principal hobby é tocar guitarra/violão e gosto tanto que tenho até uma banda de rock! :guitar: :metal: . E, mais que tudo, amo estar com minha família e amigos :heart: .
 
 ## :man_scientist: Pesquisa
-Atualmente, sigo continuando com o meu projeto iniciado no Mestrado que rendeu frutos [@DOI](http://dx.doi.org/10.1145/3229345.3229388) e continuará rendendo com muito foco e trabalho :raised_hands:. 
+Atualmente, sigo continuando com o meu projeto iniciado no Mestrado que rendeu frutos [Proceedings of the XIV Brazilian Symposium on Information Systems](http://dx.doi.org/10.1145/3229345.3229388) e continuará rendendo com muito foco e trabalho :raised_hands:. 
 
 ## :scroll: Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDouglas&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
