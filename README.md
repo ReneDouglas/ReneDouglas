@@ -9,6 +9,7 @@ Amo lecionar e trabalhar em grupo. Amo músca e meu principal hobby é tocar gui
 
 ## :man_scientist: Pesquisa
 Atualmente, sigo continuando com o meu projeto iniciado no Mestrado que rendeu frutos ([SBSI'18: Proceedings of the XIV Brazilian Symposium on Information Systems](http://dx.doi.org/10.1145/3229345.3229388)) e continuará rendendo com muito foco e trabalho :raised_hands:. 
+
 Áreas de pesquisa: Evolutionary Computation, Multi-objective Vehicle Routing Problems, Machine Learning
 
 ## :scroll: Linguagens
