@@ -9,9 +9,6 @@ Sempre fui apaixonado por áreas relacionadas à Inteligência Artificial: Machi
 ## :point_right: Um pouco sobre mim
 Amo lecionar e trabalhar em grupo. Amo músca e meu principal hobby é tocar guitarra/violão e gosto tanto que tenho até uma banda de rock! :guitar: :metal: . E, mais que tudo, amo estar com minha família e amigos :heart: .
 
-## :man_scientist: Pesquisa
-Atualmente, sigo continuando com o meu projeto iniciado no Mestrado que rendeu frutos ([SBSI'18: Proceedings of the XIV Brazilian Symposium on Information Systems](http://dx.doi.org/10.1145/3229345.3229388)) e continuará rendendo com muito foco e trabalho :raised_hands:. 
-
 Áreas de pesquisa: Computação Evolucionária, Aprendizado de Máquina, Engenharia de Software, Linguagens de Programação
 
 ## :scroll: Linguagens
