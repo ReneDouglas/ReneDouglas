@@ -1,6 +1,6 @@
 # Olá, sou Renê Morais 👋
 
-Atualmente sou professor de informática no Instituto de Ciência e Tecnologia do Piauí (IFPI) - Campus Corrente.
+Atualmente sou professor de informática no Instituto Federal de Ciência e Tecnologia do Piauí (IFPI) - Campus Corrente.
 
 Mestre em Ciências da Computação pelo [@PPGIA](https://www.ppgia.ufrpe.br) e Bacharel em Sistemas de Informação pela [@UFRPE](https://www.ufrpe.br). 
 
