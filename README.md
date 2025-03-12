@@ -14,6 +14,9 @@ Amo lecionar e trabalhar em grupo. Amo músca e meu principal hobby é tocar gui
 ## :scroll: Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDouglas&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+## Teste
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
 ## :mailbox: Minhas redes
 Linkedin: https://www.linkedin.com/in/renê-morais-827219122/
 
