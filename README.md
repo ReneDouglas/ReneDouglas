@@ -1,21 +1,44 @@
-# Olá, sou Renê Morais 👋
+# 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Atualmente sou professor de informática no Instituto Federal de Ciência e Tecnologia do Piauí (IFPI) - Campus Corrente.
+### Eu sou Renê Morais
 
-Mestre em Ciências da Computação pelo [@PPGIA](https://www.ppgia.ufrpe.br) e Bacharel em Sistemas de Informação pela [@UFRPE](https://www.ufrpe.br). 
+Sou Professor de Informática no **[Instituto Federal de Ciência e Tecnologia do Piauí (IFPI)](https://www.ifpi.edu.br)**. Minha carreira é um híbrido entre a academia e o desenvolvimento de software, buscando sempre aplicar o conhecimento teórico na criação de soluções práticas e eficientes.
 
-Sempre fui apaixonado por áreas relacionadas à Inteligência Artificial: Machine Learning, Reconhecimento de Padrões, Computação Evolucionária. Em minha monografia trabalhei com a predição de casos de Dengue utilizando uma Rede Neural Artificial; No mestrado, trabalhei com Computação Evolucionária e como professor substituto, por iniciativa própria e autorizada, lecionei uma disciplina optativa na área de Reconhecimento de Padrões (a primeira do tipo na [@UAST](http://www.uast.ufrpe.br)) durante um ano.
+- 🎓 **Mestre em Ciências da Computação** pela [UFRPE](https://www.ufrpe.br)
+- 👨‍💻 **Desenvolvedor Java** com foco no ecossistema Spring
+- 🧠 **Pesquisador em IA**, com experiência em Machine Learning e Otimização
 
-## :point_right: Um pouco sobre mim
-Amo lecionar e trabalhar em grupo. Amo música e meu principal hobby é tocar guitarra/violão e gosto tanto que tenho até uma banda de rock! :guitar: :metal: .
+---
 
-Áreas de pesquisa: Computação Evolucionária, Aprendizado de Máquina, Engenharia de Software, Linguagens de Programação
+### 🚀 Minhas Habilidades
 
-## :scroll: Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDouglas&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+#### **💻 Desenvolvimento Backend**
+- **Linguagem:** Java
+- **Frameworks/Ecossistema:** Spring (Boot, MVC, Data, Security)
+- **APIs:** Construção de APIs RESTful
+- **Web:** Aplicações MVC com Thymeleaf, JTE e JSF
 
-## :mailbox: Minhas redes
-Linkedin: https://www.linkedin.com/in/renê-morais-827219122/
+#### **🧠 Inteligência Artificial e Dados**
+- **Linguagem:** Python
+- **Bibliotecas:** Scikit-learn, Pandas, NumPy
+- **Ferramentas:** Anaconda, Jupyter Notebooks
 
-## :memo: Meu Lattes
- Currículo Lattes: http://lattes.cnpq.br/7738769354541052
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/ReneDouglas">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReneDouglas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDouglas&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
+
+---
+
+### 📬 Entre em Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renê-morais-827219122/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="renê-morais" /></a>
+  <a href="http://lattes.cnpq.br/7738769354541052" target="blank"><img align="center" src="https://img.shields.io/badge/Lattes-CNPq-blueviolet?style=for-the-badge" alt="lattes" /></a>
+</p>
